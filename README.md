@@ -37,7 +37,7 @@ Esta estructura permite:
 
 ## 🚀 Tecnologías utilizadas
 
-- Java 21
+- Java 17
 - Spring Boot 3
 - Spring WebFlux
 - Spring Data R2DBC
